@@ -1,7 +1,7 @@
 {
   "name": "@lv/commit",
   "version": "0.0.0",
-  "description": "> TODO: description",
+  "description": "@lv/cli commit 命令",
   "author": "zhuotuo <zhuotuo@leagsoft.com>",
   "homepage": "",
   "license": "ISC",

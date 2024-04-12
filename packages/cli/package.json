@@ -1,7 +1,7 @@
 {
   "name": "@lv/cli",
   "version": "0.0.0",
-  "description": "> TODO: description",
+  "description": "@lv/cli脚手架核心包",
   "author": "zhuotuo <zhuotuo@leagsoft.com>",
   "homepage": "",
   "license": "ISC",

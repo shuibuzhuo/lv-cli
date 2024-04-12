@@ -1,7 +1,7 @@
 {
   "name": "@lv/command",
   "version": "0.0.0",
-  "description": "> TODO: description",
+  "description": "@lv/cli command 类封装",
   "author": "zhuotuo <zhuotuo@leagsoft.com>",
   "homepage": "",
   "license": "ISC",
