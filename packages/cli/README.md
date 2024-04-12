@@ -1,11 +1,2 @@
-# `cli`
-
-> TODO: description
-
-## Usage
-
-```
-const cli = require('cli');
-
-// TODO: DEMONSTRATE API
-```
+# @lv/cli
+脚手架核心包

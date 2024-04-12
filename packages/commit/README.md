@@ -1,11 +1,2 @@
-# `commit`
-
-> TODO: description
-
-## Usage
-
-```
-const commit = require('commit');
-
-// TODO: DEMONSTRATE API
-```
+# @lv/commit
+commit 命令
