@@ -1,0 +1,23 @@
+{
+  "name": "@lv/cli",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zhuotuo <zhuotuo@leagsoft.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@git.leagsoft.com:zhuotuo/lv-cli.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/cli.test.js"
+  }
+}
