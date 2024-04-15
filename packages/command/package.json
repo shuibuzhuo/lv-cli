@@ -1,6 +1,6 @@
 {
   "name": "@lv-cli/command",
-  "version": "0.0.0",
+  "version": "0.5.0",
   "description": "@lv-cli/cli command 类封装",
   "author": "zhuotuo <zhuotuo@leagsoft.com>",
   "homepage": "",
