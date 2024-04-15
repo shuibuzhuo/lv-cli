@@ -1,7 +1,7 @@
 {
   "name": "@lv-cli/utils",
   "version": "0.5.0",
-  "description": "@lv-cli/cli 工具函数集合",
+  "description": "@lv-cli 工具函数集合",
   "author": "zhuotuo <zhuotuo@leagsoft.com>",
   "homepage": "",
   "license": "ISC",
