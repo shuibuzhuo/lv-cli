@@ -2,7 +2,7 @@
   "name": "@lv-cli/commit",
   "version": "0.5.1",
   "description": "@lv-cli commit 命令",
-  "author": "zhuotuo <zhuotuo@leagsoft.com>",
+  "author": "shuibuzhuo <2301140231@qq.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
