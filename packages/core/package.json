@@ -1,7 +1,7 @@
 {
-  "name": "@lv/core",
+  "name": "@lv-cli/core",
   "version": "0.0.0",
-  "description": "@lv/core 脚手架核心包",
+  "description": "@lv-cli/core 脚手架核心包",
   "author": "zhuotuo <zhuotuo@leagsoft.com>",
   "homepage": "",
   "license": "ISC",
@@ -27,8 +27,8 @@
     "test": "node ./__tests__/cli.test.js"
   },
   "dependencies": {
-    "@lv/commit": "0.0.0",
-    "@lv/utils": "0.0.0",
+    "@lv-cli/commit": "0.0.0",
+    "@lv-cli/utils": "0.0.0",
     "chalk": "5.1.0",
     "commander": "9.4.1",
     "dirname-filename-esm": "1.1.1",
