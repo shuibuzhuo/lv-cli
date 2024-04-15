@@ -1,9 +1,9 @@
 'use strict';
-import Command from "shuibuzhuo-command";
+import Command from "@lv/command";
 import SimpleGit from "simple-git";
-import { log } from 'shuibuzhuo-utils'
+import { log } from '@lv/utils'
 import { ESLint } from 'eslint'
-import { makeInput, makeList } from "shuibuzhuo-utils/lib/inquirer.js";
+import { makeInput, makeList } from "@lv/utils/lib/inquirer.js";
 
 const COMMIT_CHOICES = [
   { value: 'feat', name: 'feat: 新功能' },
