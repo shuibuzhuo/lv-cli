@@ -1,6 +1,6 @@
 {
   "name": "@lv-cli/commit",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "@lv-cli commit 命令",
   "author": "shuibuzhuo <2301140231@qq.com>",
   "homepage": "",
@@ -24,8 +24,8 @@
     "test": "node ./__tests__/commit.test.js"
   },
   "dependencies": {
-    "@lv-cli/command": "^0.5.1",
-    "@lv-cli/utils": "^0.5.1",
+    "@lv-cli/command": "^0.5.2",
+    "@lv-cli/utils": "^0.5.2",
     "eslint": "8.56.0",
     "simple-git": "3.15.1"
   },

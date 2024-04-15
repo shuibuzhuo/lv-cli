@@ -1,6 +1,6 @@
 {
   "name": "@lv-cli/core",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "@lv-cli/core 脚手架核心包",
   "author": "shuibuzhuo <2301140231@qq.com>",
   "homepage": "",
@@ -27,8 +27,8 @@
     "test": "node ./__tests__/cli.test.js"
   },
   "dependencies": {
-    "@lv-cli/commit": "^0.5.1",
-    "@lv-cli/utils": "^0.5.1",
+    "@lv-cli/commit": "^0.5.2",
+    "@lv-cli/utils": "^0.5.2",
     "chalk": "5.1.0",
     "commander": "9.4.1",
     "dirname-filename-esm": "1.1.1",
